@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+## This is not a complete project.  It is simply a playground for a guided project I was toying with.
 
 ### Using the starter project
 
